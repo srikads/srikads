@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SriKadiyala
-- 👀 I’m interested in Atomistic Simulations
+- 👀 I’m interested in Multiscale Simulations
 - 🌱 I’m currently learning Machine and Deep Learning
 - 💞️ I’m looking to collaborate with scientific programmers
-- 🥅 2021 Goals: Contribute more to materials science community
+- 🥅 2022 Goals: Contribute more to materials science community
 - ⚡ Fun fact: I'm a runner and a photographer
 - 📫 How to reach me e: sri.kadiyala@stud.tu-darmstadt.de
 

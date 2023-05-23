@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SriKadiyala
-- 👀 I’m interested in Multiscale Simulations
+- 👀 I’m interested in Materials science
 - 🌱 I’m currently learning Machine and Deep Learning
 - 💞️ I’m looking to collaborate with scientific programmers
 - 🥅 2023 Goals: Contribute more to materials science community

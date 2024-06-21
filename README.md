@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with scientific programmers
 - 🥅 2023 Goals: Contribute more to materials science community
 - ⚡ Fun fact: I'm a runner and a photographer
-- 📫 How to reach me e: sri.kadiyala@stud.tu-darmstadt.de
+- 📫 How to reach me e: s.kadiyala@adi-gmbh.ai
 
 <br />
 

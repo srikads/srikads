@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SriKadiyala
-- 👀 I graduated in Materials science with experience in data analysis
-- 🌱 I’m currently into Data science and Machine learning
+- 👀 Graduated from material sciences with solid experience in data sciences (PINN's, DCGAN)
+- 🌱 I’m currently into GenAI & cloud native
 - 💞️ I’m looking to collaborate with scientific programmers
 - 🥅 2025 Goals: Contribute more to the data science community
 - ⚡ Fun fact: I'm a runner and a photographer

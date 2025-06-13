@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SriKadiyala
-- 👀 Graduated from material sciences with solid experience in data sciences (PINN's, DCGAN)
+- 👀 Graduated from material sciences with solid experience in data sciences (dbt, Airflow, CI/CD, ETL, ELT, Snowflake, PostgreSQL, NoSQL (MongoDB, Firestore), Databricks, AWS S3, SageMaker, Docker / Kubernetes)
 - 🌱 I’m currently into GenAI & cloud native
 - 💞️ I’m looking to collaborate with scientific programmers
 - 🥅 2025 Goals: Contribute more to the data science community

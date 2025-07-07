@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="[(https://tenor.com/view/ngoding-mulu-gif-1747207714643625346](https://github.com/srikads/srikads/blob/main/ngoding-mulu.gif)](https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif)"  />
+<img src="![cat-work-in-progress](https://github.com/user-attachments/assets/ee795883-3bcc-4176-be0a-c22f62cad1d5)"  />
 </p>
 
 Guten Tag :sunglasses: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 

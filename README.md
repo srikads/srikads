@@ -63,7 +63,7 @@ Other platforms:
 
 ###### Recommendations
 <a href="https://youtube.com/playlist?list=PLR7yrLMHm11Xv2FOeHtuhern2tYm_Yd0H&si=IDyaLjHDgMFfoohl" title='fall of civilizations'>
-    <img align="left" alt="viswa's soundcloud" src="[https://www.flaticon.com/free-icon/youtube_5968852?term=youtube&page=1&position=12&origin=tag&related_id=5968852]" />
+    <img align="left" alt="Sri's yt playlist" src="https://www.flaticon.com/free-icon/youtube_5968852?term=youtube&page=1&position=12&origin=tag&related_id=5968852" />
 </a>
 </br>
 <img align="center" src="(https://github.com/srikads/srikads/blob/main/cat-work-in-progress.gif)" />

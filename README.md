@@ -66,4 +66,4 @@ Other platforms:
     <img align="left" alt="Sri's yt playlist" src="https://www.flaticon.com/free-icon/youtube_5968852?term=youtube&page=1&position=12&origin=tag&related_id=5968852" />
 </a>
 </br>
-<img align="center" src="(https://github.com/srikads/srikads/blob/main/cat-work-in-progress.gif)" />
+<img align="center" src="![image](https://github.com/user-attachments/assets/45b35b7c-55ad-435e-983a-dd931311cf97)" />

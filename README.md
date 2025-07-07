@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://tenor.com/view/ngoding-mulu-gif-1747207714643625346"  />
+<img src="[https://tenor.com/view/ngoding-mulu-gif-1747207714643625346](https://github.com/srikads/srikads/blob/main/ngoding-mulu.gif)"  />
 </p>
 
 Guten Tag :sunglasses: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
@@ -66,4 +66,4 @@ Other platforms:
     <img align="left" alt="viswa's soundcloud" src="https://img.icons8.com/color/32/000000/soundcloud.png" />
 </a>
 </br>
-<img align="center" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" />
+<img align="center" src="(https://github.com/srikads/srikads/blob/main/cat-work-in-progress.gif)" />
